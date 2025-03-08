@@ -128,3 +128,8 @@ dist
 .yarn/build-state.yml
 .yarn/install-state.gz
 .pnp.*
+
+# self
+vite-project/node_modules/
+vite-project/dist/
+vite-project/public/screenshots/
