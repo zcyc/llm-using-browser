@@ -1,6 +1,8 @@
 # llm-using-browser
 Does a large language model really need a browser to read web content?
 
+The [MCP](https://github.com/modelcontextprotocol/servers) servers for the [CDP](https://chromedevtools.github.io/devtools-protocol/) already exists, like: [Puppeteer](https://github.com/modelcontextprotocol/servers/tree/main/src/puppeteer), [Playwright](https://github.com/executeautomation/mcp-playwright). So i only implement page control and display.
+
 # Server
 
 1. /Applications/Google\ Chrome.app/Contents/MacOS/Google\ Chrome --remote-debugging-port=9222 --headless
