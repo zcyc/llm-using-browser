@@ -13,3 +13,7 @@ Does a large language model really need a browser to read web content?
 1. cd vite-project
 2. pnpm install
 3. pnpm run dev
+
+# Video
+https://github.com/user-attachments/assets/da6c49a0-33af-4d5a-9208-be27829b4308
+
